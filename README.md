@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Ryan</h1>
+
+- 🖳 Languages: [C](https://en.wikipedia.org/wiki/C_(programming_language)), [Java](https://en.wikipedia.org/wiki/Java_(programming_language)), [SQL](https://en.wikipedia.org/wiki/SQL), [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)), [4GL](https://en.wikipedia.org/wiki/IBM_Informix-4GL), [python](https://en.wikipedia.org/wiki/Python_(programming_language))
+- 🤪 I enjoy doing silly things with code: [Learning COBOL with physics problems](https://github.com/RyanHornby/physics-solver), [SIGBOVIK 2023 submission](https://github.com/RyanHornby/ringfuck)
+- 👔 But I also do some serious stuff from time to time: [R package to calculate identification risk](https://github.com/RyanHornby/IdentificationRiskCalculation), [Complex survey sampling R package](https://github.com/RyanHornby/csSampling)
+- 📖 I'm always learning new things! Right now I'm learning how to make apps with [Flutter](https://en.wikipedia.org/wiki/Flutter_(software))
+- 🧑‍💼 I currently work for [General Motors](https://www.gm.com/) where I work on their [warehouse managment system](https://en.wikipedia.org/wiki/Warehouse_management_system)
 
 <!--
 **RyanHornby/RyanHornby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
